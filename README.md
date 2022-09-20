@@ -73,14 +73,7 @@ Client data will also go along the same process Data pre-processing and accordin
 **Export Prediction to CSV:**
 Finally when we get all the prediction for client data, then our final task is to export prediction to csv file and hand over it to client.
 
-## Web Deployment
-
-Thyroid disease detection Web App: 
-
-(Using Flask)  https://thyroid-disease-prediction-api.herokuapp.com
-
-(Using Django) https://thyroid-pred.herokuapp.com
-
+## Web Deployment using Flask and Heroku.
 
 ## Screenshots
 **UI:**
@@ -97,28 +90,20 @@ Thyroid disease detection Web App:
 
 ## High Level Design 
 
-URL: https://github.com/Oviyashri/Thyroid_disorder_prediction/blob/main/docs/HDD.pdf
+URL: https://github.com/AbhijeetWaghchaure/Thyroid-Disease-Detection/blob/main/docs/HLD.pdf
 
 ## Low Level Design
 
-URL: https://github.com/Oviyashri/Thyroid_disorder_prediction/blob/main/docs/LLD.pdf
+URL: https://github.com/AbhijeetWaghchaure/Thyroid-Disease-Detection/blob/main/docs/LLD.pdf
 
 ## Architecture
 
-URL: https://github.com/Oviyashri/Thyroid_disorder_prediction/blob/main/docs/Architecture.pdf
+URL: https://github.com/AbhijeetWaghchaure/Thyroid-Disease-Detection/blob/main/docs/Architecture.pdf
 
 ## Detailed Project Report
 
-URL: https://github.com/Oviyashri/Thyroid_disorder_prediction/blob/main/docs/DPR.pdf
+URL: https://github.com/AbhijeetWaghchaure/Thyroid-Disease-Detection/blob/main/docs/DPR.pdf
 
 ## Wireframe
 
-URL: https://github.com/Oviyashri/Thyroid_disorder_prediction/blob/main/docs/Wireframe.pdf
-
-## Demo Video
-	
-https://user-images.githubusercontent.com/92749977/150366444-d137e97c-2097-447a-b969-c5e1f9649ce8.mp4
-
-## Author
-
-Oviyashri B [LinkedIn](https://www.linkedin.com/in/oviyashri-balasubramaniam)
+URL: https://github.com/AbhijeetWaghchaure/Thyroid-Disease-Detection/blob/main/docs/Wireframe.pdf
